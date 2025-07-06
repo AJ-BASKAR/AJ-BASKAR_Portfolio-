@@ -8,7 +8,8 @@ import { ThemeProvider } from "@/context/ThemeContext";
 import Navigation from "@/components/Navigation";
 import Home from "./pages/Home";
 import About from "./pages/About"; 
-import Skills from './pages/Skills';
+import Skills from './pages/skills';
+
 import Projects from "./pages/Projects";
 import Achievements from "./pages/Achievements";
 import Contact from "./pages/Contact";

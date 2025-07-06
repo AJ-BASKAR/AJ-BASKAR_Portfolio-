@@ -1,7 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import ParticleBackground from '@/components/ParticleBackground';
-import Skills from './pages/skills';
+
+
 
 
 interface SkillCardProps {
